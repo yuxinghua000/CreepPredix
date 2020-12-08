@@ -22,7 +22,7 @@ Code is provided in the `creep.ipynb` notebook file. You will also be required t
 
 ## Data
 
-The creep data is included as a selection of 2060 data points from (https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
+The creep data is included as a selection of 2060 data points
 
 Note (m.u.) is shorthand for *monetary units*.
 
